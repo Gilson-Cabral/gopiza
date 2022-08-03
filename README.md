@@ -14,21 +14,6 @@ Complete application to assist Waiters of a Pizzeria. In this App, the Administr
 - Firebase Storage
 
 
-
-## Features
-
-- User authentication (customer and waiter)
-- User Register
-- Password Recovery with e-mail
-- Pizzas Register and Update info
-- Pizzas image upload
-- Client Order
-- Manage pizza cooking
-- Manage Orders open and close
-- Screen Routes 
-- And more...
-
-
 ## Running
 
 Clone this project: 
